@@ -1,10 +1,9 @@
-# Codtech_Task
+# Codtech_Task1
 **Name:** Ayandeep Mondal
 **Company:** CODETECH IT SOLUTIONS
 **ID:** CT08DS3508
 **Domain:** Ftontebd Web development
-**Duation:** AUGUST 5th, 2024 to SEPTEMBER 5th,
-2024.
+**Duation:** october 23rd 5th, 2024 to November 23rd, 2024.
 **Mentor:**Neela Santosh Kumar
 
 
